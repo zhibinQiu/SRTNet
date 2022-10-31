@@ -1,4 +1,4 @@
-# SRTNet
+# SRTNet: Time Domain Speech Enhancement Via Stochastic Refinement
 ### Training
 Before you start training, you'll need to prepare a training dataset. The default dataset is VOICEBANK-DEMAND dataset. You can download them from [VOICEBANK-DEMAND](https://doi.org/10.7488/ds/2117)). By default, this implementation assumes a sample rate of 16 kHz. If you need to change this value, edit [params.py](https://github.com/lmnt-com/diffwave/blob/master/src/diffwave/params.py).
 
