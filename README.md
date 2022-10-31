@@ -26,9 +26,3 @@ Usage:
 ./valid.sh [stage] [model name] [checkpoint id] 
 ./inference.sh [stage] [model name] [checkpoint id]
 ```
-## References
-- [Conditional Diffusion Probabilistic Model for Speech Enhancement](https://arxiv.org/abs/2202.05256)
-- [A Study on Speech Enhancement Based on Diffusion Probabilistic Model](https://arxiv.org/abs/2107.11876)
-- [DiffWave: A Versatile Diffusion Model for Audio Synthesis](https://arxiv.org/pdf/2009.09761.pdf)
-- [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
-- [Code for Denoising Diffusion Probabilistic Models](https://github.com/hojonathanho/diffusion)
