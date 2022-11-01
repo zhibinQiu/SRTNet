@@ -1,4 +1,4 @@
-[Apache License 2.0](https://github.com/zhibinQiu/SRTNet/LICENSE)
+<!-- [Apache License 2.0](https://github.com/zhibinQiu/SRTNet/LICENSE) -->
 ## SRTNet: Time Domain Speech Enhancement Via Stochastic Refinement
 
 ### Training
